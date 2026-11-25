@@ -22,8 +22,7 @@ Home Assistant · Docker · Python · n8n · Self-hosting · Local AI
 
 ## Contact
 
-- Email: contacto@purovertigo.es
-- Telegram: [@purovertigo](https://t.me/purovertigo)
+Through GitHub — open an issue in any of my repositories.
 
 ---
 
