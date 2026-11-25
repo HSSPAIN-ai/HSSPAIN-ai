@@ -9,7 +9,7 @@ Home automation, self-hosted infrastructure and local AI, built on my own hardwa
 ## What I do
 
 - **Home automation & self-hosted systems** — whole-home control with Home Assistant, self-hosted services and local AI, running 24/7 on my own server.
-- **Automation for businesses** — through **Puro Vértigo // Sistemas**: workflows, data systems, internal panels and cost audits that let a company run itself.
+- **Automation for businesses** — workflows, data systems, internal panels and cost audits that let a company run itself.
 - **Tools & resources** — the planners, inventories and guides I build for my own house and work, refined until they earn their place.
 
 ## Toolbox
@@ -22,7 +22,6 @@ Home Assistant · Docker · Python · n8n · Self-hosting · Local AI
 
 ## Contact
 
-- Web: [sistemas.purovertigo.es](https://sistemas.purovertigo.es)
 - Email: contacto@purovertigo.es
 - Telegram: [@purovertigo](https://t.me/purovertigo)
 
